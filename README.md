@@ -7,9 +7,9 @@
 <body>
     <h1>Used Luxury Car Market Analysis</h1>
     <img src="Home.png" alt="">
-    <h4>Car Price Insights</h4>
+    <h3>Car Price Insights</h3>
     <img src="PriceInsight.png" alt="">
-    <h4>Top Car Overview</h4>
+    <h3>Top Car Overview</h3>
     <img src="TopCarsOverview.png" alt="">
     
 </body>
